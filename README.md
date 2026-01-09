@@ -1,4 +1,4 @@
-# Calculadora de Dias entre Datas (Streamlit)
+# Calculadora de dias entre datas (Streamlit)
 
 Aplicação simples desenvolvida em **Python + Streamlit** para calcular a **quantidade de dias entre duas datas**, a partir de uma data inicial e uma data final.
 
